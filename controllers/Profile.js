@@ -86,3 +86,4 @@ exports.getAllUserDetails = async (req, res) => {
 };
 
 //updateDisplayPicture
+
